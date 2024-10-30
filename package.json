@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Implementing Git Workflows and Best Practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelayo-daniel/lab1.git"
+  },
+  "author": "Daniel Pelayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelayo-daniel/lab1/issues"
+  },
+  "homepage": "https://github.com/pelayo-daniel/lab1#readme"
+}
